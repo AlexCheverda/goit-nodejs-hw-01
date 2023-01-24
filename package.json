@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
-    "start:dev": "npx nodemon index",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +20,6 @@
   "homepage": "https://github.com/AlexCheverda/goit-nodejs-hw-01#readme",
   "dependencies": {
     "nanoid": "^4.0.0",
-    "uuid": "^9.0.0",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
