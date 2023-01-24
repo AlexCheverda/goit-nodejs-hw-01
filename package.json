@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/AlexCheverda/goit-nodejs-hw-01#readme",
   "dependencies": {
+    "nanoid": "^4.0.0",
+    "uuid": "^9.0.0",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
