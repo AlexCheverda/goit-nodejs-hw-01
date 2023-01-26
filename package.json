@@ -12,15 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/AlexCheverda/goit-nodejs-hw-01.git"
   },
-  "author": "\"Oleksandr Cheverda\"",
+  "author": "Oleksandr Cheverda",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlexCheverda/goit-nodejs-hw-01/issues"
   },
   "homepage": "https://github.com/AlexCheverda/goit-nodejs-hw-01#readme",
   "dependencies": {
-    "nanoid": "^4.0.0",
-    "yargs": "^17.6.2"
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
